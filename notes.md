@@ -11,3 +11,5 @@ environments === where the app is running
     -staging/test === server similar to production
     -production === strong server(s) somewhere
 heroku === when using heroku must make port dynamic because heroku assigns the port
+
+npm run server to start nodemon for auto refresh
